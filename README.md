@@ -1,5 +1,5 @@
 # Calculadora-MVC
-Calculadora básica con algunas funciones de calculadora científica 
+Calculadora básica con algunas funciones de calculadora científica desarrollada con el patrón de diseño MVC y con el paradigma de la programación orientado a objetos.
 
 ## Características
 
